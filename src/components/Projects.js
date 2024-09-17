@@ -15,11 +15,11 @@ function Projects() {
         </a>
         <a href="project3-link" className="min-w-[300px] bg-white shadow-lg rounded-lg p-6 hover:bg-teal-100 transition">
           <h3 className="text-xl font-semibold mb-2">Resume Parser & Role Recommender</h3>
-          <p className="text-gray-600">Crafted an ML model for parsing resumes and recommending job roles, achieving an accuracy of 98%.</p>
+          <p className="text-gray-600">Crafted an ML model for parsing resumes and recommending job roles, achieving an accuracy of 97.2%.</p>
         </a>
         <a href="project4-link" className="min-w-[300px] bg-white shadow-lg rounded-lg p-6 hover:bg-teal-100 transition">
           <h3 className="text-xl font-semibold mb-2">Credit Card Fraud Detection Model</h3>
-          <p className="text-gray-600">Programmed a fraud detection model with 99.98% accuracy, enhancing performance using the SMOTE technique.</p>
+          <p className="text-gray-600">Programmed a fraud detection model with 98% accuracy, enhancing performance using the SMOTE technique.</p>
         </a>
       </div>
     </section>
