@@ -17,6 +17,15 @@ function Volunteering() {
             <li>Managed a team of 30 students. Organized 8 workshops and events on ML and soft skills, impacting over 300 participants.</li>
             <li>Modernized the club’s website, collaborating with 5 web developers, resulting in a 30% increase in site engagement.</li>
           </ul>
+
+          <div className="mt-6">
+            <h3 className="text-xl font-semibold text-blue-800">America Reads - ASU</h3>
+            <p className="text-lg text-gray-700">Tutor</p>
+            <p className="text-gray-600">December 2024 – Present</p>
+            <ul className="list-disc list-inside mt-2 text-gray-600">
+              <li>Supported reading, writing, and math education for underserved K–12 students in Title I schools.</li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
